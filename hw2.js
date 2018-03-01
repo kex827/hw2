@@ -10,6 +10,8 @@
 // KelloggCoin, that will massively disrupt financial markets at the Global
 // Hub.
 
+// testing a change
+
 let blockchain = [
   { fromUser: null, toUser: "brian", amount: 21000 },
   { fromUser: "brian", toUser: "ben", amount: 9000 },
